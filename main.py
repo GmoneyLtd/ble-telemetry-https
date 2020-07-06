@@ -1,3 +1,10 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# @Time    : 2020/7/6 5:30 PM
+# @Author  : Jinlin From Meixin
+# @File    : main.py
+# @Project : ble-telemetry-https
+
 from flask import Flask, request
 import  json
 
